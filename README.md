@@ -1,2 +1,2 @@
 # Rick-roll-joke
-Rick roll people
+# Super easy just run the program and it will rick roll
